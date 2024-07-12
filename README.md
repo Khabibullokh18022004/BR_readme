@@ -1,4 +1,7 @@
-# Best Recipes
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=5000&color=32CD32&center=true&vCenter=true&width=600&height=100&lines=Best+Recipes+SwiftUI+App;" alt="Best Recipes SwiftUI App">
+</h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bestrecipes.bestrecipes" />
 
@@ -6,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет+всем!+👋;+Мы+-+Команда+Nº+6!;" />
 </h1>
 
-<h3 align="center">Страстные разработчики программного обеспечения из Канады 🇨🇦</h3>
+<h3 align="center">Страстные разработчики программного обеспечения из России и Узбекистана 🇷🇺 & 🇺🇿</h3>
 
 <br/>
 
@@ -16,7 +19,7 @@
  
  🌱 Мы изучаем **SwiftUI, iOS Development**
 
-💬 Спрашивайте меня о **Swift, SwiftUI, Firebase... или любой другой теме [здесь](https://github.com/yourusername/yourrepository/issues)**
+💬 Спрашивайте нас о **Swift, SwiftUI, Firebase, API... или любой другой теме [здесь](t.me/Khabibullokh_Khallokov)**
 
 ⚡ Интересный факт **При разработке мы использовали методологию GitFlow**
 
@@ -39,17 +42,28 @@
 <h2 align="center">⚒️ Используемые технологии ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=swift,github,git,figma,discord" /><br>
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 Мой вклад 🐍</h2>
+  <h2>🐍 Наш вклад 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yourusername/yourrepository/output/github-contribution-grid-snake.svg" />
-  
+  <a href="https://github.com/EliseevDmitry" target="_blank">
+    <img src="https://img.shields.io/badge/Check_Our_Repository-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="Check Our Repository" />
+  </a>
+</div>
+
+  <div align="center">
+  <h2>🍴 Наш network 🍴</h2>
+  <br>
+  <a href="https://github.com/EliseevDmitry/BestRecipes/network" target="_blank">
+    <img src="https://img.shields.io/badge/View_Network-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="View Network Graph" />
+  </a>
+</div>
+
   <br/><br/><br/>
 </div>
 
