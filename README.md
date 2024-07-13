@@ -91,6 +91,26 @@
   <br/><br/><br/>
 </div>
 
+
+<div align="center">
+
+# Обзор Проекта Best Recipes
+
+## 📊 Статистика Репозитория
+
+![Статистика GitHub для Best Recipes](https://github-readme-stats.vercel.app/api?username=EliseevDmitry&repo=BestRecipes&show_icons=true&theme=radical)
+
+## 🖥️ Самые Используемые Языки
+
+[![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=EliseevDmitry&repo=BestRecipes&layout=compact)](https://github.com/EliseevDmitry/BestRecipes)
+
+## ⭐ Звезды и Вилки
+
+![Stars](https://img.shields.io/github/stars/EliseevDmitry/BestRecipes?style=social)
+![Forks](https://img.shields.io/github/forks/EliseevDmitry/BestRecipes?style=social)
+
+</div>
+
   <div align="center">
   <h2>🌟 Наш network 🌟</h2>
   <br>
@@ -184,9 +204,6 @@ https://github.com/user-attachments/assets/b04e3924-5301-4b81-96dc-66c31438f3be
 
   <p>Попробуйте наше приложение и оцените его функциональность и удобство!</p>
 </div>
-
-
-
 
 
 
