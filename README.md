@@ -54,18 +54,18 @@
   <p>Встречайте тех, кто сделал этот проект возможным!</p>
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/9cf8a59d-7051-4597-a999-711338803fe0" alt="Член команды 1" style="width:100px; height:auto; border-radius:50%;">
-      <br>Khabiullokh Khallokov</td>
-      <td><img src="https://your-image-url-here.com/image2.jpg" alt="Член команды 2" style="width:100px; height:auto; border-radius:50%;">
-      <br>Имя 2</td>
-      <td><img src="https://your-image-url-here.com/image3.jpg" alt="Член команды 3" style="width:100px; height:auto; border-radius:50%;">
-      <br>Имя 3</td>
+      <td><img src="https://github.com/user-attachments/assets/a950a17a-af4a-483f-945b-b36d34fdc4a4" alt="Член команды 1" style="width:100px; height:auto; border-radius:50%;">
+      <br>Елисеев Дмитрий</td>
+      <td><img src="https://github.com/user-attachments/assets/a950a17a-af4a-483f-945b-b36d34fdc4a4" alt="Член команды 2" style="width:100px; height:auto; border-radius:50%;">
+      <br>Даниил</td>
+      <td><img src="https://github.com/user-attachments/assets/a950a17a-af4a-483f-945b-b36d34fdc4a4" style="width:100px; height:auto; border-radius:50%;">
+      <br>Дениз</td>
     </tr>
     <tr>
-      <td><img src="https://your-image-url-here.com/image4.jpg" alt="Член команды 4" style="width:100px; height:auto; border-radius:50%;">
-      <br>Имя 4</td>
-      <td><img src="https://your-image-url-here.com/image5.jpg" alt="Член команды 5" style="width:100px; height:auto; border-radius:50%;">
-      <br>Имя 5</td>
+      <td><img src="https://github.com/user-attachments/assets/a950a17a-af4a-483f-945b-b36d34fdc4a4" alt="Член команды 4" style="width:100px; height:auto; border-radius:50%;">
+      <br>Дима</td>
+      <td><img src="https://github.com/user-attachments/assets/9cf8a59d-7051-4597-a999-711338803fe0" alt="Член команды 5" style="width:100px; height:auto; border-radius:50%;">
+      <br>Хабибуллох Халлоков</td>
       <td></td> <!-- Empty cell for alignment -->
     </tr>
   </table>
@@ -94,6 +94,7 @@
   <div align="center">
   <h2>🌟 Наш network 🌟</h2>
   <br>
+    <img width="903" alt="Screenshot 2024-07-13 at 16 25 47" src="https://github.com/user-attachments/assets/21229dad-1a8d-45ca-8853-6de6c0770ec6">
   <a href="https://github.com/EliseevDmitry/BestRecipes/network" target="_blank">
     <img src="https://img.shields.io/badge/View_Network-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="View Network Graph" />
   </a>
