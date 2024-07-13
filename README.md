@@ -54,7 +54,7 @@
   <p>Встречайте тех, кто сделал этот проект возможным!</p>
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/a950a17a-af4a-483f-945b-b36d34fdc4a4" alt="Член команды 1" style="width:100px; height:auto; border-radius:50%;">
+      <td><img src="https://github.com/user-attachments/assets/598c1827-165c-4275-903c-ab62cf7fc5fa" alt="Член команды 1" style="width:100px; height:auto; border-radius:50%;">
       <br>Елисеев Дмитрий</td>
       <td><img src="https://github.com/user-attachments/assets/a950a17a-af4a-483f-945b-b36d34fdc4a4" alt="Член команды 2" style="width:100px; height:auto; border-radius:50%;">
       <br>Даниил</td>
@@ -109,6 +109,7 @@
 
 <div align="center">
   <img width="900" alt="Screenshot 2024-07-12 at 18 46 14" src="https://github.com/user-attachments/assets/37a1d334-b3f2-4a2b-a647-974801648936">
+  <img width="1085" alt="Screenshot 2024-07-13 at 16 55 07" src="https://github.com/user-attachments/assets/5770a6dc-c6b6-4e4a-9436-e65cc35b3c9f">
 </div>
 
 
@@ -172,6 +173,19 @@ https://github.com/user-attachments/assets/b04e3924-5301-4b81-96dc-66c31438f3be
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=5000&color=F7B538&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%80+%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5+%D0%BD%D0%B0%D1%88%D0%B5+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8+%F0%9F%8E%AC;" alt="Смотрите наше приложение в действии">
 </div>
+
+<div align="center">
+  <h2>🌟 Наше приложение в действии 🌟</h2>
+  <p>Взгляните на уникальные возможности нашего приложения:</p>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
+    <img width="1470" alt="Photo" src="https://github.com/user-attachments/assets/dbc71056-1238-4d5a-8fe1-3f69dd326305">
+  </div>
+
+  <p>Попробуйте наше приложение и оцените его функциональность и удобство!</p>
+</div>
+
+
 
 
 
