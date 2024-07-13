@@ -135,3 +135,24 @@ open BestRecipes.xcodeproj
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link">
   </a>
 </p>
+
+
+
+https://github.com/user-attachments/assets/b04e3924-5301-4b81-96dc-66c31438f3be
+
+
+<div align="center">
+  <figure>
+    <figcaption><strong>Watch our app in action:</strong></figcaption>
+    <video width="640" height="360" controls loop autoplay style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius: 10px;">
+      <source src="https://github.com/user-attachments/assets/b04e3924-5301-4b81-96dc-66c31438f3be" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </figure>
+</div>
+
+
+
+
+
+
