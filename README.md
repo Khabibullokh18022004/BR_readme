@@ -48,6 +48,33 @@
 <br/>
 <hr/>
 
+
+<div align="center">
+  <h2>🌟 Наша команда 🌟</h2>
+  <p>Встречайте тех, кто сделал этот проект возможным!</p>
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/9cf8a59d-7051-4597-a999-711338803fe0" alt="Член команды 1" style="width:100px; height:auto; border-radius:50%;">
+      <br>Khabiullokh Khallokov</td>
+      <td><img src="https://your-image-url-here.com/image2.jpg" alt="Член команды 2" style="width:100px; height:auto; border-radius:50%;">
+      <br>Имя 2</td>
+      <td><img src="https://your-image-url-here.com/image3.jpg" alt="Член команды 3" style="width:100px; height:auto; border-radius:50%;">
+      <br>Имя 3</td>
+    </tr>
+    <tr>
+      <td><img src="https://your-image-url-here.com/image4.jpg" alt="Член команды 4" style="width:100px; height:auto; border-radius:50%;">
+      <br>Имя 4</td>
+      <td><img src="https://your-image-url-here.com/image5.jpg" alt="Член команды 5" style="width:100px; height:auto; border-radius:50%;">
+      <br>Имя 5</td>
+      <td></td> <!-- Empty cell for alignment -->
+    </tr>
+  </table>
+</div>
+
+
+
+
+
 <div align="center">
   <h2>🐍 Наш вклад 🐍</h2>
   <br>
@@ -142,16 +169,8 @@ https://github.com/user-attachments/assets/b04e3924-5301-4b81-96dc-66c31438f3be
 
 
 <div align="center">
-  <figure>
-    <figcaption><strong>Watch our app in action:</strong></figcaption>
-    <video width="640" height="360" controls loop autoplay style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius: 10px;">
-      <source src="https://github.com/user-attachments/assets/b04e3924-5301-4b81-96dc-66c31438f3be" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </figure>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=5000&color=F7B538&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%80+%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5+%D0%BD%D0%B0%D1%88%D0%B5+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8+%F0%9F%8E%AC;" alt="Смотрите наше приложение в действии">
 </div>
-
-
 
 
 
